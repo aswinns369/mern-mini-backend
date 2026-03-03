@@ -1,6 +1,6 @@
-Community E-Commerce Platform – Backend
+E-Commerce Web Applicaton – Backend
 
-This is the backend API for the Community E-Commerce Platform built using Node.js, Express, and MongoDB.
+This is the backend API for the E-Commerce web Application built using Node.js, Express, and MongoDB.
 It provides RESTful APIs for authentication, product management, cart operations, and orders.
 
 ---
