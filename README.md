@@ -52,8 +52,8 @@ A robust, fully functional RESTful API built for a modern e-commerce application
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd miniprojectback
+   git clone https://github.com/aswinns369/mern-mini-backend.git
+   cd mern-mini-backend
    ```
 
 2. **Install dependencies**
@@ -106,4 +106,5 @@ A robust, fully functional RESTful API built for a modern e-commerce application
 
 ## 👨‍💻 Author
 
-Developed with ❤️ to demonstrate scalable backend architecture and clean RESTful API design.
+Aswin N S  
+GitHub: https://github.com/aswinns369
