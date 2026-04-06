@@ -23,6 +23,7 @@ app.use(imageRoutes);
 const productRoutes = require('./routes/productRoutes');
 app.use(productRoutes)
 
+
 app.listen(8000, () => {
   console.log('App is running');
 });
